@@ -12,13 +12,13 @@
 
 ### 🚀 Minhas estatísticas no GitHub:
 
-![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
+![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielAzevedo2&show_icons=true&theme=dark)
 
 ---
 
 ### 💻 Linguagens e Ferramentas que mais uso:
 
-![Suas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)
+![Suas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAzevedo2&layout=compact&theme=dark)
 
 ---
 
@@ -33,4 +33,4 @@
 
 ### 📊 GitHub Readme Streak Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GabrielAzevedo2&theme=dark)
